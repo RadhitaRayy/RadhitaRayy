@@ -11,32 +11,21 @@
 
 ## 🚀 About Me
 
-```javascript
-const radhita = {
-    name: "Radhita Rayhan",
-    location: "Yogyakarta, Indonesia",
-    role: "Back-End Developer | Full-Stack Developer",
-    pronouns: "he/him",
-    code: ["JavaScript", "Python", "Java", "TypeScript", "PHP"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Next.js"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot"],
-            php: ["Laravel"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        devOps: ["Docker", "AWS", "Heroku", "Vercel"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+- 👨‍💻 **Name:** Radhita Rayhan
+- 📍 **Location:** Yogyakarta, Indonesia
+- 💼 **Role:** Back-End Developer | Full-Stack Developer
+- 🔧 **Languages:** JavaScript, Python, Java, TypeScript, PHP
+2. Format Table:
+markdown| Info | Details |
+|------|---------|
+| Name | Radhita Rayhan |
+| Location | Yogyakarta, Indonesia |
+| Role | Back-End Developer \| Full-Stack Developer |
+3. Format Card Style:
+markdown### 👨‍💻 Radhita Rayhan
+**Back-End Developer | Full-Stack Developer**  
+📍 Yogyakarta, Indonesia  
+💻 Building scalable web applications
 
 ## 🛠️ Tech Stack
 
