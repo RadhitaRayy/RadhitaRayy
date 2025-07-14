@@ -1,19 +1,22 @@
-# Hi there, I'm Radhita Ray! 👋
+# Hi there, I'm Radhita Rayhan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Back-End+Developer;Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RadhitaRayy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RadhitaRayy?style=flat-square&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/RadhitaRayy?style=flat-square&color=yellow" alt="GitHub Stars" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RadhitaRayy&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RadhitaRayy?color=blue" alt="GitHub Followers" />
+</p>
 
 ## 🚀 About Me
 
 ```javascript
 const radhita = {
+    name: "Radhita Rayhan",
+    location: "Yogyakarta, Indonesia",
+    role: "Back-End Developer | Full-Stack Developer",
+    pronouns: "he/him",
     code: ["JavaScript", "Python", "Java", "TypeScript", "PHP"],
     technologies: {
         frontEnd: {
@@ -37,163 +40,94 @@ const radhita = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,python,django,java,spring,php,laravel,mongodb,mysql,postgres,docker,aws,git,vscode,figma&perline=10" alt="Tech Stack" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RadhitaRayy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhitaRayy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RadhitaRayy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhitaRayy&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhitaRayy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhitaRayy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
-## 🏆 GitHub Trophies
+## 🎯 What I'm up to
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RadhitaRayy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RadhitaRayy&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-## 🌟 Top Contributors This Month
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/RadhitaRayy">
-          <img src="https://avatars.githubusercontent.com/u/RadhitaRayy?v=4" width="80px;" alt="RadhitaRayy"/><br />
-          <sub><b>Radhita Ray</b></sub>
-        </a><br />
-        <sub>💻 Main Developer</sub>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://avatars.githubusercontent.com/u/1?v=4" width="80px;" alt="Contributor 1"/><br />
-          <sub><b>Contributor 1</b></sub>
-        </a><br />
-        <sub>🐛 Bug Fixes</sub>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://avatars.githubusercontent.com/u/2?v=4" width="80px;" alt="Contributor 2"/><br />
-          <sub><b>Contributor 2</b></sub>
-        </a><br />
-        <sub>📚 Documentation</sub>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://avatars.githubusercontent.com/u/3?v=4" width="80px;" alt="Contributor 3"/><br />
-          <sub><b>Contributor 3</b></sub>
-        </a><br />
-        <sub>🎨 Design</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎯 Current Focus
-
-- 🔭 **Currently working on:** Building a full-stack e-commerce platform
-- 🌱 **Currently learning:** Microservices with Docker & Kubernetes
-- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
-- 🤔 **Looking for help with:** Advanced DevOps practices
-- 💬 **Ask me about:** Web development, JavaScript, Python, or anything tech-related
-- 📫 **How to reach me:** 
-  - 📧 Email: radhita.ray@example.com
-  - 💼 LinkedIn: [linkedin.com/in/radhitaray](https://linkedin.com/in/radhitaray)
-  - 🐦 Twitter: [@RadhitaRayy](https://twitter.com/RadhitaRayy)
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes! 🧩
+- 🔭 Currently working on: **Building scalable web applications**
+- 🌱 Currently learning: **Microservices with Docker & Kubernetes**
+- 👯 Looking to collaborate on: **Open source projects and innovative web applications**
+- 💬 Ask me about: **Web development, JavaScript, Python, or anything tech-related**
+- 📫 How to reach me: **radhitarayhan@gmail.com**
+- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
 
 ## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/RadhitaRayy/awesome-project/pull/15) in [RadhitaRayy/awesome-project](https://github.com/RadhitaRayy/awesome-project)
-2. 💪 Opened PR [#14](https://github.com/RadhitaRayy/web-app/pull/14) in [RadhitaRayy/web-app](https://github.com/RadhitaRayy/web-app)
-3. 🐛 Fixed bug in [RadhitaRayy/api-service](https://github.com/RadhitaRayy/api-service)
-4. 📚 Updated documentation in [RadhitaRayy/docs](https://github.com/RadhitaRayy/docs)
-5. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-<!--END_SECTION:activity-->
+- 💻 Working on various web development projects
+- 🐛 Fixing bugs and improving code quality
+- 📚 Learning new technologies and frameworks
+- 🤝 Contributing to open source projects
+- 🎯 Building scalable applications
 
-## 🎨 My Projects
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/RadhitaRayy/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhitaRayy&repo=awesome-project&theme=radical&hide_border=true" alt="Awesome Project" />
-  </a>
-  <a href="https://github.com/RadhitaRayy/web-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhitaRayy&repo=web-app&theme=radical&hide_border=true" alt="Web App" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RadhitaRayy&theme=dark&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
 
-## 🎭 Fun Section
+## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RadhitaRayy&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-</div>
+## 🤝 Connect with me
 
-## 🐍 Snake Game
-
-<div align="center">
-  <img src="https://github.com/RadhitaRayy/RadhitaRayy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-## 📅 This Month's Highlights
-
-```
-🎯 Goals Achieved:
-✅ Completed 3 major projects
-✅ Contributed to 5 open source repositories
-✅ Learned Docker & Kubernetes
-✅ Improved code quality by 40%
-
-📊 Stats:
-• 50+ commits this month
-• 12 pull requests merged
-• 8 issues resolved
-• 3 new repositories created
-```
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/radhitaray">
+<p align="center">
+  <a href="https://linkedin.com/in/radhitarayhan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/RadhitaRayy">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:radhita.ray@example.com">
+  <a href="mailto:radhitarayhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://radhitaray.dev">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://github.com/RadhitaRayy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Have%20a%20great%20day!&descAlignY=51&descAlign=center" alt="Footer" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
 
-<div align="center">
-  💖 If you like my work, consider buying me a coffee! ☕
-  <br />
-  <a href="https://www.buymeacoffee.com/radhitaray">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
+<p align="center">
+  <b>Thanks for visiting! 😊</b>
+</p>
+
+<p align="center">
+  <i>⭐ Star some repositories if you find them interesting!</i>
+</p>
