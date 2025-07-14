@@ -82,7 +82,7 @@ CodeIgniter • Laravel
 - 🌱 Currently learning: **Microservices with Docker & Kubernetes**
 - 👯 Looking to collaborate on: **Open source projects and innovative web applications**
 - 💬 Ask me about: **Web development, JavaScript, Python, or anything tech-related**
-- 📫 How to reach me: **radhitarayhan@gmail.com**
+- 📫 How to reach me: **radhitaray123@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
 
 ## 🔥 Recent Activity
