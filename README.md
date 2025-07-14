@@ -11,21 +11,33 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Name:** Radhita Rayhan
-- 📍 **Location:** Yogyakarta, Indonesia
-- 💼 **Role:** Back-End Developer | Full-Stack Developer
-- 🔧 **Languages:** JavaScript, Python, Java, TypeScript, PHP
-2. Format Table:
-markdown| Info | Details |
-|------|---------|
-| Name | Radhita Rayhan |
-| Location | Yogyakarta, Indonesia |
-| Role | Back-End Developer \| Full-Stack Developer |
-3. Format Card Style:
-markdown### 👨‍💻 Radhita Rayhan
+<div align="center">
+  
+### 👨‍💻 Radhita Rayhan
 **Back-End Developer | Full-Stack Developer**  
-📍 Yogyakarta, Indonesia  
-💻 Building scalable web applications
+📍 Yogyakarta, Indonesia • 🌏 he/him  
+💻 Building scalable web applications  
+🎯 Currently focusing on microservices with Docker & Kubernetes  
+😄 Fun fact: I debug with console.log() and I'm not ashamed!  
+
+</div>
+
+### 🔧 Technologies & Tools
+
+**Programming Languages:**  
+JavaScript • Python • Java • TypeScript • PHP
+
+**Frontend Technologies:**  
+• Bootstrap • Sass
+
+**Backend Technologies:**  
+CodeIgniter • Laravel
+
+**Databases:**  
+• MySQL
+
+**DevOps & Tools:**  
+• Vercel • Git • VS Code • Postman • Figma
 
 ## 🛠️ Tech Stack
 
