@@ -17,7 +17,6 @@
 **Back-End Developer | Full-Stack Developer**  
 📍 Jakarta Pusat, Indonesia • 🌏 he/him  
 💻 Building scalable web applications  
-🎯 Currently focusing on microservices with Docker
 😄 Fun fact: I debug with console.log() and I'm not ashamed!  
 
 </div>
